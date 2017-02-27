@@ -1,8 +1,9 @@
 # Hell Triangle
 
 Essa aplicação foi escrita em Python 2.7.
-A linguagem Python foi escolhida por fins de portabilidade. A solução para o problema proposto
-podia ser feita em um script simples, o que incentivou o uso dessa linguagem.
+A linguagem Python foi escolhida por fins de portabilidade e eficiência. A solução para o problema proposto
+podia ser feita em um script, o que incentivou o uso dessa linguagem, já que scripts podem ser escritos
+e executados facilmente usando Python.
 
 ## Rodando o script
 
